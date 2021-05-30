@@ -55,3 +55,5 @@ FROM CovidProject..CovidDeaths
 --Where location like '%states%'
 GROUP BY Location, Population, date
 ORDER BY PercentPopulationInfected DESC;
+
+Link for Tableau Project: https://public.tableau.com/app/profile/imani7329/viz/Covid-19Dashboard_16223337588360/Dashboard1
