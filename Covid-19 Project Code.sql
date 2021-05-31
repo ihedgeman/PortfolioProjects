@@ -137,3 +137,6 @@ JOIN CovidProject..CovidVaccinations vac
 	ON dea.location = vac.location
 	AND dea.date = vac.date
 WHERE dea.continent IS NOT NULL  
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Link to Data: https://ourworldindata.org/covid-deaths (I used data up until the month of May 2021)
