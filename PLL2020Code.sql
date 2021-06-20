@@ -1,4 +1,4 @@
-/****** This is the PLL 2020 player stats data
+/****** This is the PLL 2020 Player stats data
 	There were 155 players on the roaster for the whole league. MSSQL ******/
 SELECT *
   FROM [PLLproject].[dbo].[PLL2020]
